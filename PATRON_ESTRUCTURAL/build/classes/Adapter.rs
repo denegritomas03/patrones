@@ -1,0 +1,4 @@
+AdaptadorEnchufe
+Adapter
+EnchufeAmericano
+EnchufeEuropeo
